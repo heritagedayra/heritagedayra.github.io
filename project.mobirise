@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "About_us.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -1229,7 +1229,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/19748419-1373516126101494-3001874053860328717-n-960x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12828439-939156962870748-8905236483300868283-o-1137x640.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -1379,6 +1379,110 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/200601011525-1600x1200.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/200601011525-1600x1200-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/12828439-939156962870748-8905236483300868283-o-1137x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12828439-939156962870748-8905236483300868283-o-1137x640-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/13336077-991650960954681-5705330580547086567-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13336077-991650960954681-5705330580547086567-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/12496507-939122802874164-2066666142733584573-o-1024x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12496507-939122802874164-2066666142733584573-o-1024x768-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/12841227-939122859540825-757271953671001652-o-1280x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12841227-939122859540825-757271953671001652-o-1280x960-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/19657196-1371382672981506-4218856510268521900-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19657196-1371382672981506-4218856510268521900-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/13516262-1006833396103104-6522165270613547807-n-720x540.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13516262-1006833396103104-6522165270613547807-n-720x540-720x540.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/19702259-1371354656317641-3305106499647669662-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19702259-1371354656317641-3305106499647669662-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nature",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/19748419-1373516126101494-3001874053860328717-n-960x576.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19748419-1373516126101494-3001874053860328717-n-960x576-800x480.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
